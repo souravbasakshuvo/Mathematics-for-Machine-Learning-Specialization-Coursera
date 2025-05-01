@@ -15,7 +15,7 @@ This repository contains my work and assignments from the **Mathematics for Mach
 
 ## Coursera Certificates
 You can view and download my certificates for the Mathematics for Machine Learning Specialization below:
-- [Mathematics for Machine Learning Specialization](Certificates/Sourav Basak Shuvo_Mathematics for Machine Learning Certificate.pdf)
+- [Mathematics for Machine Learning Specialization](Certificates/Sourav_Basak_Shuvo_Mathematics_for Machine_Learning_Specialization_Certificate.pdf)
 - [Mathematics for Machine Learning: Linear Algebra Certificate](Certificates/Linear_Algebra_Certificate.pdf)
 - [Mathematics for Machine Learning: Multivariate Calculus Certificate](Certificates/Multivariate_Calculus_Certificate.pdf)
 - [Mathematics for Machine Learning: PCA Certificate](Certificates/PCA_Certificate.pdf)
