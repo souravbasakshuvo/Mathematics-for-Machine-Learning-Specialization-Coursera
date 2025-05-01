@@ -57,10 +57,8 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 ---
 
 ### 📚 **Acknowledgements**
-A huge thanks to the instructors and mentors:
-- **Dr. Michael O.**: For making Linear Algebra approachable and easy to grasp.
-- **Dr. Tim H.**: For explaining multivariable calculus concepts in a simple and understandable way.
-- **Dr. Roberto B.**: For providing clear and practical insights into PCA.
+A huge thanks to the amazing mentors: **Dr. David Dye**, **Dr. Samuel J. Cooper**, **Dr. Marc Peter Deisenroth**, **Dr. A. Freddie Page**, and all the other instructors involved in the Mathematics for Machine Learning Specialization. Their engaging teaching styles, combined with real-world examples, made challenging topics like Linear Algebra, Multivariate Calculus, and Principal Component Analysis (PCA) approachable and enjoyable. Their support and clarity helped me gain confidence in applying mathematical principles to my machine learning projects.💡
+
 
 ---
 
