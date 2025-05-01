@@ -1,4 +1,3 @@
-
 # Mathematics for Machine Learning Specialization
 This repository contains my work and assignments from the **Mathematics for Machine Learning Specialization** by **Imperial College London** on **Coursera**. This specialization covers the mathematical foundations necessary for machine learning, focusing on **Linear Algebra**, **Multivariate Calculus**, and **Principal Component Analysis (PCA)**.
 
