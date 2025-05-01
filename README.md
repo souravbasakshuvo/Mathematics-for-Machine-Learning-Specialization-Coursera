@@ -1,39 +1,68 @@
 
-# Python 3 Programming Specialization
-This repository contains my work and assignments from the **Python 3 Programming Specialization** by the **University of Michigan** on Coursera. This specialization is designed to help learners become proficient in Python programming, focusing on core programming concepts, data structures, web scraping, and handling APIs.
+# Mathematics for Machine Learning Specialization
+This repository contains my work and assignments from the **Mathematics for Machine Learning Specialization** by **Imperial College London** on **Coursera**. This specialization covers the mathematical foundations necessary for machine learning, focusing on **Linear Algebra**, **Multivariate Calculus**, and **Principal Component Analysis (PCA)**.
+
+**Course Link**: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ---
 
 ### 🧠 **Courses Included**
-1. **Python Basics**: Introduction to Python programming, covering variables, conditionals, loops, and functions.
-2. **Python Functions, Files, and Dictionaries**: Understanding functions, file handling, and dictionaries in Python.
-3. **Data Collection and Processing with Python**: Techniques for collecting and processing data using Python.
-4. **Python Classes and Inheritance**: Learning about classes, objects, and inheritance in Python.
-5. **Python Project: Software Engineering and Image Manipulation**: An extended project involving software engineering principles and image manipulation techniques.
+1. **Mathematics for Machine Learning: Linear Algebra**: Introduction to linear algebra, covering matrices, eigenvectors, and eigenvalues, which are fundamental to machine learning algorithms.
+2. **Mathematics for Machine Learning: Multivariate Calculus**: Understanding the calculus concepts needed for optimization algorithms, such as gradient descent.
+3. **Mathematics for Machine Learning: Principal Component Analysis (PCA)**: Learn about PCA, a powerful dimensionality reduction technique used for simplifying data.
 
 ---
 
 ## Coursera Certificates
-You can view and download my certificates for the Python 3 Programming Specialization below:
-- [Python 3 Programming Specialization Certificate](certificates/Python_3_Programming_Specialization_OYAFNI72JGCX.pdf)
+You can view and download my certificates for the Mathematics for Machine Learning Specialization below:
+- [Mathematics for Machine Learning Specialization](Certificates/Sourav Basak Shuvo_Mathematics for Machine Learning Certificate.pdf)
+- [Mathematics for Machine Learning: Linear Algebra Certificate](Certificates/Linear_Algebra_Certificate.pdf)
+- [Mathematics for Machine Learning: Multivariate Calculus Certificate](Certificates/Multivariate_Calculus_Certificate.pdf)
+- [Mathematics for Machine Learning: PCA Certificate](Certificates/PCA_Certificate.pdf)
 
 ---
 
 ### 🚀 **Getting Started**
-To get started with the course, clone the repository to your local machine:
+To get started with the projects and assignments, clone the repository to your local machine:
 ```bash
-git clone https://github.com/souravbasakshuvo/Python-3-Programming-Specialization.git
+git clone https://github.com/souravbasakshuvo/Mathematics-for-Machine-Learning-Specialization-Coursera.git
 ```
 
-Then, navigate to the project directory and explore the individual course folders for assignments and projects.
+Then, navigate to the project directory and explore the individual course folders for assignments and projects:
+```bash
+cd Mathematics-for-Machine-Learning-Specialization-Coursera
+```
 
 ---
 
 ### 📦 **Requirements**
 - **Python 3.x**: Ensure Python 3 is installed on your system.
+- **Jupyter Notebooks**: Some assignments are in Jupyter Notebooks, so install the necessary libraries using:
+  ```bash
+  pip install jupyter
+  ```
+- **NumPy**: This library is essential for matrix and numerical computations:
+  ```bash
+  pip install numpy
+  ```
+- **Matplotlib**: For visualizing mathematical concepts:
+  ```bash
+  pip install matplotlib
+  ```
 
 ---
 
 ### 📄 **License**
-
 This repository is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+### 📚 **Acknowledgements**
+A huge thanks to the instructors and mentors:
+- **Dr. Michael O.**: For making Linear Algebra approachable and easy to grasp.
+- **Dr. Tim H.**: For explaining multivariable calculus concepts in a simple and understandable way.
+- **Dr. Roberto B.**: For providing clear and practical insights into PCA.
+
+---
+
+Feel free to explore the materials, try out the assignments, and reach out if you have any questions!
